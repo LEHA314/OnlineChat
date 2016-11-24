@@ -1,0 +1,16 @@
+a {
+	color: #00B7FF;
+}
+
+#room {
+	background-color: #ddd;
+	margin-bottom: 1em;
+}
+
+#messages {
+	height: 300px;
+	overflow: auto;
+	background-color: #eee;
+	margin-bottom: 1em;
+	margin-right: 10px;
+}
